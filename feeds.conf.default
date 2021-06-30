@@ -1,5 +1,5 @@
 src-git packages https://github.com/samlin39/packages
-src-git packages https://github.com/samlin39/packages-1
+src-git packages2 https://github.com/samlin39/packages-1
 src-git luci https://github.com/samlin39/luci
 src-git routing https://github.com/samlin39/routing
 src-git telephony https://github.com/samlin39/telephony
